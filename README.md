@@ -1,0 +1,19 @@
+# MD5-password-decryptor
+# Multi-threaded dictionary decryptor of passwords encoded with MD5 algorithm.
+#Password types:
+- password
+- Password
+- passworD
+- PASSWORD
+- 12password
+- 12Password
+- 12passworD
+- 12PASSWORD
+- password34
+- Password34
+- passworD34
+- PASSWORD34
+- 12password34
+- 12Password34
+- 12passworD32
+- 12PASSWORD34
